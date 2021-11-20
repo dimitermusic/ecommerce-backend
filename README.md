@@ -36,7 +36,7 @@ This application is covered under the MIT License
 
 ## Testing Instructions
 
-[Video](https://drive.google.com/file/d/1A__IWDodyCBmIotVMf2cHImv2mS3036A/view?usp=sharing)
+[Click here to watch video](https://drive.google.com/file/d/1A__IWDodyCBmIotVMf2cHImv2mS3036A/view?usp=sharing)
 
 ## Questions
 If you have any questions, please visit my Github profile or email me using the links below
