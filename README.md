@@ -1,4 +1,4 @@
-# ECommerce Backend [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# E-Commerce Backend [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 rsrs
 ## Description
 This app was designed to help online retail stores manage products.
@@ -36,12 +36,12 @@ This application is covered under the MIT License
 
 ## Testing Instructions
 
-[Video](TODO:)
+[Video](https://drive.google.com/file/d/1A__IWDodyCBmIotVMf2cHImv2mS3036A/view?usp=sharing)
 
 ## Questions
 If you have any questions, please visit my Github profile or email me using the links below
 
-[Deployed Site](https://dimiter-ecommerce-backend.herokuapp.com/)  
+[Deployed Site](https://dy-ecommerce.herokuapp.com/)  
 [Repository](https://github.com/dimitermusic/ecommerce)
 
 
